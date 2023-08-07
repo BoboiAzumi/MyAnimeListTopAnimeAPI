@@ -4,8 +4,6 @@ import (
 	webserver "myanimelisttop/src/WebServer"
 )
 
-
-
 func Run(){
 	webserver.WebServerInit()
 }
